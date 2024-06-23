@@ -1,0 +1,74 @@
+[
+    {
+        "category": "men",
+        "path": "/category/men",
+        "image": "/images/men.webp",
+        "subCategories": [
+            {
+                "title": "Men Shirts",
+                "image": "/images/jeans.webp",
+                "path": "/men-shirts"
+            },
+            {
+                "title": "Men Tshirts",
+                "image": "/images/shorts.webp",
+                "path": "/men-tshirt"
+            },
+            {
+                "title": "T Shirts",
+                "image": "/images/tshirt.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Watches",
+                "image": "/images/watches.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Sunglasses",
+                "image": "/images/sunglasses.jpg",
+                "path": "/#"
+            },
+            {
+                "title": "Shirt",
+                "image": "/images/shirt.avif",
+                "path": "/#"
+            },
+            {
+                "title": "Belt",
+                "image": "/images/belt.jpg",
+                "path": "/#"
+            },
+            {
+                "title": "Spray",
+                "image": "/images/spray.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Facewash",
+                "image": "/images/facewash.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Perfumes",
+                "image": "/images/orignals.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Shoes",
+                "image": "/images/shoes.avif",
+                "path": "/#"
+            },
+            {
+                "title": "Elegant Wear",
+                "image": "/images/men.avif",
+                "path": "/#"
+            },
+            {
+                "title": "Summers",
+                "image": "/images/summer.jpg",
+                "path": "/#"
+            }
+        ]
+    }
+]

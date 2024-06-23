@@ -1,0 +1,113 @@
+[
+    {
+        "type": "feature-hero",
+        "item": {
+            "title": "Elevate Your Elegance",
+            "image": "/images/feature-hero.jpg",
+            "path": "/#"
+        }
+    },
+    {
+        "type": "latest-collection",
+        "banners": [
+            {
+                "title": "t shirts",
+                "image": "/images/tshirt.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Watches",
+                "image": "/images/watches.webp",
+                "path": "/#"
+            },
+            {
+                "title": "sunglasses",
+                "image": "/images/sunglasses.jpg",
+                "path": "/#"
+            },
+            {
+                "title": "shirt",
+                "image": "/images/shirt.avif",
+                "path": "/#"
+            },
+            {
+                "title": "Belt",
+                "image": "/images/belt.jpg",
+                "path": "/#"
+            }
+        ]
+    },
+    {
+        "type": "top-essensials",
+        "banners": [
+            {
+                "title": "spray",
+                "image": "/images/spray.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Belt",
+                "image": "/images/belt.jpg",
+                "path": "/#"
+            },
+            {
+                "title": "facewash",
+                "image": "/images/facewash.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Sunglasses",
+                "image": "/images/sunglasses.jpg",
+                "path": "/#"
+            },
+            {
+                "title": "Perfumes",
+                "image": "/images/orignals.webp",
+                "path": "/#"
+            },
+            {
+                "title": "Shoes",
+                "image": "/images/shoes.avif",
+                "path": "/#"
+            }
+        ]
+    },
+    {
+        "type": "top-categories",
+        "banners": [
+            {
+                "title": "Elegant wear",
+                "image": "/images/men.avif",
+                "path": "/#"
+            },
+            {
+                "title": "Watches",
+                "image": "/images/watches.webp",
+                "path": "/#"
+            }
+        ]
+    },
+    {
+        "type": "shop-by-category",
+        "banners": [
+            {
+                "title": "Sunglasses",
+                "image": "/images/sunglasses.jpg",
+                "path": "/#"
+            },
+            {
+                "title": "Summers",
+                "image": "/images/summer.jpg",
+                "path": "/#"
+            }
+        ]
+    },
+    {
+        "type": "feature-bottom",
+        "item": {
+            "title": "Where Timeless Sophistication Meets Modern Luxury.",
+            "image": "/images/orignals.webp",
+            "path": "/#"
+        }
+    }
+]
