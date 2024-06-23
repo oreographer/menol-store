@@ -2,7 +2,7 @@ import "../globals.css";
 import { Slide, ToastContainer } from "react-toastify";
 import Footer from "../components/layout/Footer";
 import "react-toastify/dist/ReactToastify.css";
-import ProgressBar from "@/components/ProgressBar";
+// import ProgressBar from "@/components/ProgressBar";
 import { StateContext } from "@/context/StateContext";
 import Navbar from "@/components/layout/Navbar";
 import { EB_Garamond } from "next/font/google";
@@ -80,7 +80,7 @@ export default async function RootLayout({ children }) {
       <html lang="en">
         <body className={`${font.className} bg-primary-clr text-primary-clr`}>
           <StateContext>
-            <ProgressBar />
+            {/* <ProgressBar /> */}
 
             <ToastContainer
               position="bottom-center"
