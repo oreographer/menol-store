@@ -1,1 +1,1 @@
-## BRAND Template ! 
+## BRAND-X Template
